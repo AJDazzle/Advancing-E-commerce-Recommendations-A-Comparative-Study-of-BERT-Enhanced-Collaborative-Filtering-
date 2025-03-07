@@ -1,0 +1,2 @@
+# Advancing-E-commerce-Recommendations-A-Comparative-Study-of-BERT-Enhanced-Collaborative-Filtering-
+This study enhances e-commerce recommendations by combining BERT-based embeddings with collaborative filtering. We compare multiple models on a Flipkart dataset, with our approach achieving superior accuracy. This fusion of NLP and collaborative filtering improves recommendation effectiveness beyond traditional methods.
